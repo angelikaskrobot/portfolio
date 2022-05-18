@@ -261,3 +261,9 @@ textarea {
   }
 }
 
+/* nav bar main */
+
+.nav {
+  background-color: #000;
+  overflow: hidden;
+}
